@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there mate 👋
 
 ![Snake gif](https://github.com/shashwat11-hub/shashwat11-hub/blob/main/output/github-contribution-grid-snake.gif)
 
