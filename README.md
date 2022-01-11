@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Snake gif](https://github.com/shashwat11-hub/shashwat11-hub/blob/main/output/github-contribution-grid-snake.gif)
+
 <!--
 **shashwat11-hub/shashwat11-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
