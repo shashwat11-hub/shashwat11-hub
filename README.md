@@ -1,5 +1,7 @@
 ### Hi there mate 👋
 
+<img src="https://github-readme-stats.vercel.app/api?username=lordmomo&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
 ![Snake gif](https://github.com/shashwat11-hub/shashwat11-hub/blob/main/output/github-contribution-grid-snake.gif)
 
 <!--
