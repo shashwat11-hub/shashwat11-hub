@@ -1,5 +1,6 @@
 ### Hi there mate 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shashwat11-hub)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![Snake gif](https://github.com/shashwat11-hub/shashwat11-hub/blob/main/output/github-contribution-grid-snake.gif)
