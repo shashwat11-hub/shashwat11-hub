@@ -1,6 +1,6 @@
 ### Hi there mate 👋
 
-![Shashwat's GitHub stats](https://github-readme-stats.vercel.app/api?username=shashwat11-hub&show_icons=true&theme=radical)
+![Shashwat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shashwat11-hub&show_icons=true&theme=radical)
 
 
 
